@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/xxue064/xxue064.r-universe.dev
 	branch = HEAD
+[submodule "benchexcal"]
+	path = benchexcal
+	url = https://github.com/xxue064/benchexcal
